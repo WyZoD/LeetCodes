@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b9362d-0c52-4202-8c43-cb6b2733850a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/40.CombinationSumII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.MultiplyStrings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/39.CombinatiionSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/39.CombinatiionSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +74,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +99,9 @@
       <workItem from="1761394094816" duration="2465000" />
       <workItem from="1761424674408" duration="697000" />
       <workItem from="1761572664793" duration="1277000" />
-      <workItem from="1761658794011" duration="1136000" />
+      <workItem from="1761658794011" duration="1520000" />
+      <workItem from="1761660348646" duration="13000" />
+      <workItem from="1761747052162" duration="1157000" />
     </task>
     <servers />
   </component>
