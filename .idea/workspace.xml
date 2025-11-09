@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b9362d-0c52-4202-8c43-cb6b2733850a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/58.LengthOfLastWord.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +108,8 @@
       <workItem from="1762260921000" duration="981000" />
       <workItem from="1762349465406" duration="780000" />
       <workItem from="1762457268657" duration="344000" />
+      <workItem from="1762524157656" duration="418000" />
+      <workItem from="1762726520019" duration="303000" />
     </task>
     <servers />
   </component>
